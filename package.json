@@ -22,7 +22,7 @@
     "etch": "0.14.1",
     "fs-plus": "^3.0.0",
     "fuzzaldrin": "^2.1",
-    "glob": "4.3.1",
+    "glob": "13.0.0",
     "hosted-git-info": "^2.8.9",
     "marked": "^17.0.1",
     "request": "^2.83.0",
