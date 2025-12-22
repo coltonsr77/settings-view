@@ -50,7 +50,7 @@
     "SettingsView": "createSettingsView"
   },
   "devDependencies": {
-    "coffeelint": "^1.9.7",
+    "coffeelint": "^2.1.0",
     "standard": "^17.1.2"
   },
   "scripts": {
