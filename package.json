@@ -23,7 +23,7 @@
     "fs-plus": "^3.0.0",
     "fuzzaldrin": "^2.1",
     "glob": "13.0.0",
-    "hosted-git-info": "^2.8.9",
+    "hosted-git-info": "^9.0.2",
     "marked": "^17.0.1",
     "request": "^2.83.0",
     "season": "^6.0.2",
