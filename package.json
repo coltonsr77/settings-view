@@ -25,7 +25,7 @@
     "glob": "13.0.0",
     "hosted-git-info": "^2.8.9",
     "marked": "^17.0.1",
-    "request": "^2.83.0",
+    "request": "^2.88.2",
     "season": "^6.0.2",
     "semver": "^7.7.3",
     "underscore-plus": "^1.7.0"
