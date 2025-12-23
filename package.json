@@ -17,7 +17,7 @@
     }
   },
   "dependencies": {
-    "async": "^3.2.2",
+    "async": "^3.2.6",
     "dompurify": "^3.2.4",
     "etch": "0.14.1",
     "fs-plus": "^3.0.0",
