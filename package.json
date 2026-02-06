@@ -27,7 +27,7 @@
     "marked": "^17.0.1",
     "request": "^2.88.2",
     "season": "^6.0.2",
-    "semver": "^7.7.3",
+    "semver": "^7.7.4",
     "underscore-plus": "^1.7.0"
   },
   "repository": "https://github.com/atom/settings-view",
