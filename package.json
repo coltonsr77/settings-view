@@ -24,7 +24,7 @@
     "fuzzaldrin": "^2.1",
     "glob": "13.0.6",
     "hosted-git-info": "^9.0.2",
-    "marked": "^17.0.3",
+    "marked": "^17.0.4",
     "request": "^2.88.2",
     "season": "^6.0.2",
     "semver": "^7.7.4",
